@@ -1,0 +1,4 @@
+node_modules/
+historical-artifacts-serves-key.json
+.env
+.vercel
