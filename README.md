@@ -62,13 +62,3 @@ WanderNest is a user-driven travel sharing platform for travelers, bloggers, and
 - **Server:** Vercel
 
 ---
-
-## ⚙️ Installation & Setup
-
-Follow the steps to run the project locally:
-
-### 1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/wandernest.git
-cd wandernest
